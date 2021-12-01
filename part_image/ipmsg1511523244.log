@@ -1,0 +1,479 @@
+=====================================
+ From: Nadeem (eway/ADMINRG-JDJNAR7/192.168.1.44/Neeraj-<9452fc30aaa214a7>)
+  at Thu Sep 21 13:51:39 2017 (RSA2)(sealed)
+  (files) DEV Growth Database Defects.docx, Additional Growth DB Updates.docx
+-------------------------------------
+
+
+=====================================
+ From: Nadeem (eway/ADMINRG-JDJNAR7/192.168.1.44/Neeraj-<9452fc30aaa214a7>)
+  at Thu Sep 21 13:57:33 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+http://ec2-34-209-163-59.us-west-2.compute.amazonaws.com/atmos/opportunity
+
+=====================================
+ From: Nadeem (eway/ADMINRG-JDJNAR7/192.168.1.44/Neeraj-<9452fc30aaa214a7>)
+  at Thu Sep 21 14:01:06 2017 (RSA2/Signed)(sealed)
+  (files) atmos_2_bk
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Mon Sep 25 10:43:17 2017 (RSA2/Signed)(sealed)
+  (files) Atmos Marketing Growth Database Punchlist-2.docx
+-------------------------------------
+
+
+=====================================
+ To: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Mon Sep 25 18:24:37 2017 (RSA2/Signed)(sealed)
+  (files) Atmos Marketing Growth Database Punchlist-2.docx
+-------------------------------------
+
+
+=====================================
+ To: Nadeem (eway/ADMINRG-JDJNAR7/192.168.1.44/Neeraj-<9452fc30aaa214a7>)
+  at Wed Sep 27 14:09:25 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+http://beoro-admin.tzdthemes.com/index.php?page=wizard
+
+=====================================
+ From: Nadeem (eway/ADMINRG-JDJNAR7/192.168.1.44/Neeraj-<9452fc30aaa214a7>)
+  at Wed Sep 27 14:17:01 2017 (RSA2/Signed)(sealed)
+  (files) beoro
+-------------------------------------
+>http://beoro-admin.tzdthemes.com/index.php?page=wizard
+
+
+=====================================
+ From: Nadeem (eway/ADMINRG-JDJNAR7/192.168.1.44/Neeraj-<9452fc30aaa214a7>)
+  at Wed Sep 27 14:17:08 2017 (RSA2/Signed)(sealed)
+  (files) beoro
+-------------------------------------
+
+
+=====================================
+ To: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Thu Sep 28 11:30:46 2017 (RSA2/Signed)(sealed)
+  (files) beoro-admin.tzdthemes.com
+-------------------------------------
+
+
+=====================================
+ To: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Thu Sep 28 11:32:53 2017 (RSA2/Signed)(sealed)
+  (files) beoro
+-------------------------------------
+
+
+=====================================
+ To: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Sep 29 15:56:30 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+timestamp	1506680606514
+status	400
+error	Bad Request
+exception	org.springframework.http.conve…tpMessageNotReadableException
+message	Could not read document: Unrec…3439b997; line: 1, column: 6]
+path	/api/common/costType/getByType
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Sep 29 18:17:23 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+1. this button is not working by daufult .. user should see his own oppurtunies if it clicked it should show all oppurtunites
+when user login it should show only his oppurtunites Done.
+2. planner permission done.
+3. Calculate button is not working in won stage done.
+4. in the cost type dropdown. we need to identify each cost type.. if it belong to 1) in negotiable 2) atoms cost 3) developer done.
+5. While adding new cost type i have added dropdown to add cost type for negotiation,energy cost, and developer cost. 
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Oct 06 11:38:29 2017 (RSA2/Signed)(sealed)
+  (files) Remaining Defects.xlsx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Sat Oct 07 10:28:17 2017 (RSA2/Signed)(sealed)
+  (files) Remaining Defects - Updated 10-6-17.xlsx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Sat Oct 07 10:49:30 2017 (RSA2/Signed)(sealed)
+  (files) Understanding the Roles in the Growth Database.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Mon Oct 09 17:30:51 2017 (RSA2/Signed)(sealed)
+  (files) Certainty of Spend Definitions.xlsx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Oct 11 10:39:21 2017 (RSA2/Signed)(sealed)
+  (files) Remaining Defects 2.0 - Updated 10-10-17.xlsx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Oct 13 11:28:07 2017 (RSA2/Signed)(sealed)
+  (files) sample.pdf
+-------------------------------------
+
+
+=====================================
+ From: Husain New  (HUSAIN/192.168.1.132/Husain-<3691f51a0c0fa62c>)
+  at Fri Oct 13 18:05:44 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+HI
+
+=====================================
+ To: rahul (eway/E005-PC/192.168.1.203/E005-<6d7f69c545b1186e>)
+  at Sat Oct 14 15:12:29 2017 (RSA2/Signed)(sealed)
+  (files) fb
+-------------------------------------
+
+
+=====================================
+ From: Nadeem Ansari  (eway/NADEEM-PC/192.168.1.46/Nadeem-<b63ba69251d5d19d>)
+  at Tue Oct 24 11:23:36 2017 (RSA2)(sealed)
+  (files) Windows Loader v2.2.1
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Oct 27 10:47:46 2017 (RSA2/Signed)(sealed)
+  (files) 3 Financial In Negotiation Defects, 1 Language Change.docx
+-------------------------------------
+
+
+=====================================
+ From: Akhilesh (AKHILESH-PC/192.168.1.102/Akhilesh-<14ef1cc263695a97>)
+  at Tue Oct 31 18:14:00 2017 (RSA2)(sealed)
+  (files) Tally.ERP9
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 01 10:46:20 2017 (RSA2/Signed)(sealed)
+  (files) Detail Report Defects 10-31-17.docx, Outstanding List of User Defects 10-30-17 (1).docx, Win-Loss Report Defects 10-30-17.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 01 10:51:33 2017 (RSA2/Signed)(sealed)
+  (files) Detail Report Defects 10-31-17.docx, Outstanding List of User Defects 10-30-17 (1).docx, Win-Loss Report Defects 10-30-17.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Thu Nov 02 10:48:30 2017 (RSA2/Signed)(sealed)
+  (files) upworksetup.exe
+-------------------------------------
+
+
+=====================================
+ To: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Thu Nov 02 11:00:43 2017 (RSA2/Signed)(sealed)
+  (files) upworksetup.exe
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Thu Nov 02 11:06:38 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+tarunsharpdeveloper@gmail.com
+
+=====================================
+ To: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Thu Nov 02 14:59:15 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+tum kr rhe ho kya eicher pr kam
+
+=====================================
+ From: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Thu Nov 02 14:59:29 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>tum kr rhe ho kya eicher pr kam
+nhi
+
+=====================================
+ To: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Thu Nov 02 14:59:49 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>tum kr rhe ho kya eicher pr kam
+>nhi
+ok tu fr me kr leta hun 
+
+=====================================
+ From: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Thu Nov 02 14:59:58 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>>tum kr rhe ho kya eicher pr kam
+>>nhi
+>ok tu fr me kr leta hun 
+ok
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Tue Nov 07 10:49:24 2017 (RSA2/Signed)(sealed)
+  (files) DEV Report Defects Round 2.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Tue Nov 07 18:05:40 2017 (RSA2/Signed)(sealed)
+  (files) mdtx.docx
+-------------------------------------
+
+
+=====================================
+ To: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 08 11:30:15 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+"marketing_potential": [
+      {
+        "cost_type": "ONSITE",
+        "cost_type_code": "1301",
+        "data": [
+          {
+            "development_name": "test devlopement",
+            "project_status": "Won",
+            "fiscal_year": "2018",
+            "percent100": 2322,
+            "percent75": 12321,
+            "percent50": 23212,
+            "percent25": 321
+          }
+        ]
+      },
+      {
+        "cost_type": "OFSITE",
+        "cost_type_code": "1303",
+        "data": [
+          {
+            "development_name": "test devlopement",
+            "project_status": "Won",
+            "fiscal_year": "2018",
+            "percent100": 2322,
+            "percent75": 12321,
+            "percent50": 23212,
+            "percent25": 321
+          }
+        ]
+      }
+    ],
+
+=====================================
+ To: Nadeem Ansari  (eway/NADEEM-PC/192.168.1.46/Nadeem-<b63ba69251d5d19d>)
+  at Wed Nov 08 19:02:23 2017 (RSA2/Signed)(sealed)
+  (files) fb
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Nov 10 11:17:50 2017 (RSA2/Signed)(sealed)
+  (files) customer
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Nov 10 11:38:59 2017 (RSA2/Signed)(sealed)
+  (files) EBAY SOFTWARE -.docx
+-------------------------------------
+
+
+=====================================
+ From: SHAILESH LAPTOP (SERVER11/192.168.1.117/Shailesh-<b91b0b1dc610ba11>)
+  at Mon Nov 13 13:34:19 2017 (RSA2/Signed)(sealed)
+  (files) escan setup
+-------------------------------------
+
+
+=====================================
+ From: Priyanka Chouhan (HR/PRIYANKACHOUHAN/192.168.1.154/Priyanka Chouhan-<4399d8bb1624d406>)
+  at Mon Nov 13 18:46:44 2017 (RSA2)(sealed)
+-------------------------------------
+abhishek tumhara official mail id h kya
+
+=====================================
+ To: Priyanka Chouhan (HR/PRIYANKACHOUHAN/192.168.1.154/Priyanka Chouhan-<4399d8bb1624d406>)
+  at Mon Nov 13 18:47:00 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>abhishek tumhara official mail id h kya
+nhi
+
+=====================================
+ From: Priyanka Chouhan (HR/PRIYANKACHOUHAN/192.168.1.154/Priyanka Chouhan-<4399d8bb1624d406>)
+  at Mon Nov 13 18:47:18 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>abhishek tumhara official mail id h kya
+>nhi
+ok 
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 15 11:18:00 2017 (RSA2/Signed)(sealed)
+  (files) changes.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Thu Nov 16 12:49:00 2017 (RSA2/Signed)(sealed)
+  (files) J9137.pdf
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Fri Nov 17 12:40:43 2017 (RSA2/Signed)(sealed)
+  (files) Database Reports (1).xlsx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Mon Nov 20 11:02:28 2017 (RSA2/Signed)(sealed)
+  (files) Untitled document.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Mon Nov 20 11:03:45 2017 (RSA2/Signed)(sealed)
+  (files) Untitled document.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Tue Nov 21 10:53:50 2017 (RSA2/Signed)(sealed)
+  (files) DEV Report Defects Round 4.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 22 10:49:32 2017 (RSA2/Signed)(sealed)
+  (files) Remaining Round 4 Defects 11-21-17.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 22 10:50:29 2017 (RSA2/Signed)(sealed)
+  (files) High Priority Defect - In Negotiation 11-21-17.docx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 22 18:10:14 2017 (RSA2/Signed)(sealed)
+  (files) HARDNESS TRAVERSE GRAPH.xlsx
+-------------------------------------
+
+
+=====================================
+ From: Gaurav (WINDOWS-41NO173/192.168.1.54/HP Licensed-<f356fbcf3928a767>)
+  at Wed Nov 22 18:11:42 2017 (RSA2/Signed)(sealed)
+  (files) Highcharts-4.0.4
+-------------------------------------
+
+
+=====================================
+ From: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:26:18 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+ha abhi
+
+=====================================
+ To: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:26:35 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>ha abhi
+han bhai bolo
+
+
+=====================================
+ From: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:26:58 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>ha abhi
+>han bhai bolo
+kya keh rhe the kl.
+
+=====================================
+ To: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:27:31 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>>ha abhi
+>>han bhai bolo
+>kya keh rhe the kl.
+kuch nhi vo aaya tha na to changes kr wa rha tha yarr
+
+
+=====================================
+ From: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:27:54 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>>>ha abhi
+>>>han bhai bolo
+>>kya keh rhe the kl.
+>kuch nhi vo aaya tha na to changes kr wa rha tha yarr
+pareshan kr diya kya?
+
+=====================================
+ To: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:28:15 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>>>>ha abhi
+>>>>han bhai bolo
+>>>kya keh rhe the kl.
+>>kuch nhi vo aaya tha na to changes kr wa rha tha yarr
+>pareshan kr diya kya?
+han yaar pagal kr diya kal to 
+
+=====================================
+ From: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:28:42 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>>>>>ha abhi
+>>>>>han bhai bolo
+>>>>kya keh rhe the kl.
+>>>kuch nhi vo aaya tha na to changes kr wa rha tha yarr
+>>pareshan kr diya kya?
+>han yaar pagal kr diya kal to 
+abhi bhi or baki h kya?
+
+=====================================
+ To: sachin sharma (eway/NEERAJNEW-PC/192.168.1.49/Neeraj New-<2b27bb6ef503181b>)
+  at Fri Nov 24 15:31:12 2017 (RSA2/Signed)(sealed)
+-------------------------------------
+>>>>>>>ha abhi
+>>>>>>han bhai bolo
+>>>>>kya keh rhe the kl.
+>>>>kuch nhi vo aaya tha na to changes kr wa rha tha yarr
+>>>pareshan kr diya kya?
+>>han yaar pagal kr diya kal to 
+>abhi bhi or baki h kya?
+han abhi to bahut baki he
+
