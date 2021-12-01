@@ -224,6 +224,8 @@
                                         <th>Supplier</th>
                                         <th>SURFACE<br>HARDNESS</th>
 										<th>Cycle Time<br>(CARB/Diffusion)</th>
+										<th>Temp°C<br>(CARB/Diffusion)</th>
+
                     					<th>EC DEPTH<br><div class="box2">PCD</div><div class="box2">RCD</div></th>
                     					<th>CORE HARDNESS<br><div class="box2">PCD</div><div class="box2">RCD</div><div class="box2">OD</div></th>
                                         <th>OTHER CLUBBED PARTS</th>
@@ -469,6 +471,23 @@
 												var c_d_time ='';
 												
 											}
+                      // check code for temp 
+                      var curbeizing_temp = val.curbeizing_temp;
+											var diffusion_temp = val.diffusion_temp;
+											if(curbeizing_temp!='' && diffusion_temp!=''){
+												var c_d_temp = curbeizing_temp+' / '+diffusion_temp;
+												
+											}else if(curbeizing_temp =='' && diffusion_temp!=''){
+												var c_d_temp = curbeizing_temp+' / '+diffusion_temp;
+												
+											}else if(curbeizing_temp!='' && diffusion_temp ==''){
+												var c_d_temp = curbeizing_temp+' / '+diffusion_temp;
+												 
+											}else{
+												var c_d_temp ='';
+												
+											}
+                      // end cheching code 
 										   //var c_d_time = val.curbeizing_time+' / '+val.diffusion_time ;
                                           var disposition  = val.disposition.split(' ');
                                           var dis_string = '';
@@ -485,6 +504,7 @@
 												  val.supplier_name,
                                                   val.metallurgical_test_surface_hard1_observation,
 												 c_d_time,
+                         c_d_temp,
 												  ecd,
 												  hardness,
                                                   data,
@@ -504,6 +524,7 @@
 												  val.supplier_name,
                                                   val.metallurgical_test_surface_hard1_observation,
 												  c_d_time,
+                          c_d_temp,
 												  ecd,
 												  hardness,
                                                   data,
@@ -522,6 +543,7 @@
 												  val.supplier_name,
                                                   val.metallurgical_test_surface_hard1_observation,
 												  c_d_time,
+                          c_d_temp,
 												  ecd,
                                                   hardness,
                                                   data,

@@ -25,13 +25,13 @@ $query = '';
 
 if($cut_part == '' && $batch_code == '' && $charge_number == '' && $steel_code == '' && $customer == '' && $furnace_name == '' && $from == '' && $to == '' && $disposition == '' && $part_no == '' && $quantity == '' &&  $supplier == ''){
 
-   $query = 'SELECT `id`,`part_no`,`metallurgical_test_case_depth_pcd_observation`,`metallurgical_test_surface_hard1_observation`,`metallurgical_test_case_depth_observation`,`metallurgical_test_core_hardness_pcd_observation`,`metallurgical_test_core_hardness_rcd_observation`,`report_no`,`other_clubbed_part_no`,`other_clubbed_part_no2`,`other_clubbed_part_no3`,`other_clubbed_part_no4`,`other_clubbed_part_no5`,`other_clubbed_part_no6`,`cut_part`,`batch_code`,`charge_number`,`steel_code`,`disposition`,`status`,`qty`,`supplier`,`hardness_traverse_extra_value`,`furnace_no`,`curbeizing_time`,`diffusion_time` FROM `control_plan`';
+   $query = 'SELECT `id`,`part_no`,`metallurgical_test_case_depth_pcd_observation`,`metallurgical_test_surface_hard1_observation`,`metallurgical_test_case_depth_observation`,`metallurgical_test_core_hardness_pcd_observation`,`metallurgical_test_core_hardness_rcd_observation`,`report_no`,`other_clubbed_part_no`,`other_clubbed_part_no2`,`other_clubbed_part_no3`,`other_clubbed_part_no4`,`other_clubbed_part_no5`,`other_clubbed_part_no6`,`cut_part`,`batch_code`,`charge_number`,`steel_code`,`disposition`,`status`,`qty`,`supplier`,`hardness_traverse_extra_value`,`furnace_no`,`curbeizing_time`,`diffusion_time`, `diffusion_temp` , `curbeizing_temp` FROM `control_plan`';
 
 }
 
 else{
 
-$query = "SELECT `id`,`part_no`,`metallurgical_test_case_depth_pcd_observation`,`metallurgical_test_surface_hard1_observation`,`metallurgical_test_case_depth_observation`,`metallurgical_test_core_hardness_pcd_observation`,`metallurgical_test_core_hardness_rcd_observation`,`report_no`,`other_clubbed_part_no`,`other_clubbed_part_no2`,`other_clubbed_part_no3`,`other_clubbed_part_no4`,`other_clubbed_part_no5`,`other_clubbed_part_no6`,`cut_part`,`batch_code`,`charge_number`,`steel_code`,`disposition`,`status`,`qty`,`supplier`,`hardness_traverse_extra_value`,`furnace_no`,`curbeizing_time`,`diffusion_time` FROM `control_plan` USE INDEX (`fast`) WHERE `record_status` = 0";
+$query = "SELECT `id`,`part_no`,`metallurgical_test_case_depth_pcd_observation`,`metallurgical_test_surface_hard1_observation`,`metallurgical_test_case_depth_observation`,`metallurgical_test_core_hardness_pcd_observation`,`metallurgical_test_core_hardness_rcd_observation`,`report_no`,`other_clubbed_part_no`,`other_clubbed_part_no2`,`other_clubbed_part_no3`,`other_clubbed_part_no4`,`other_clubbed_part_no5`,`other_clubbed_part_no6`,`cut_part`,`batch_code`,`charge_number`,`steel_code`,`disposition`,`status`,`qty`,`supplier`,`hardness_traverse_extra_value`,`furnace_no`,`curbeizing_time`,`diffusion_time` , `diffusion_temp` , `curbeizing_temp` FROM `control_plan` USE INDEX (`fast`) WHERE `record_status` = 0";
 
 
 
