@@ -19,7 +19,10 @@ $heat_no = $_POST['generate_heat_no'];
 
 $query = "SELECT part_no,accept,mill_tc_supplier,forger_tc_supplier,heat_no,grade,part_grade FROM `metallurgical_report` WHERE heat_no = '$heat_no'";
 
+
+
 $rs = $crud->getAllData($query);
+
 $response = array();
 
 $req = "SELECT *  FROM steel_code WHERE heat_no='$heat_no'  AND forger_tc_supplier='$forger_tc_supplier'";
@@ -29,7 +32,6 @@ $rst = $crud->getSingleRow($req);
 if($rst){
 
 echo json_encode(array('status' => 0, 'data' => 'Steel Code Already Generated'));
-
 
 }
 
@@ -48,12 +50,13 @@ foreach ($rs as $key => $value) {
                   
 
    $part_no_array = explode('*',$value['part_no']);
-
+   
    $accept_array = explode('*',$value['accept']);
 
    $part_grade_array = explode('*',$value['part_grade']);
 
    foreach ($part_no_array as $key1 => $value1) {
+                 
 
                 if($value1 != '' && $accept_array[$key1] !='REJECTED'){
 
@@ -94,6 +97,7 @@ foreach ($rs as $key => $value) {
                   $response[$key1]['part_no'] = $value1;
 
                   $response[$key1]['steel_code'] = $code;
+                  
 
                }
 
@@ -106,18 +110,12 @@ foreach ($rs as $key => $value) {
 
 
 
-if($response){
+if($result){
 
    // print_r($response); 
    
   
-	$up_data = array('is_report_generated' => 1);
-
-	$where = "heat_no = '$heat_no'";
-
-	$crud->update("metallurgical_report", $up_data, $where); 
-
-	echo json_encode(array('status' => 1, 'data' => $response));
+	
    
   
 
@@ -130,17 +128,8 @@ if($response){
    // getting all users  mail 
    $query = "SELECT email FROM email ";
    $result = $crud->getAllData($query);
-   
    // sending mail
-   foreach($result as $emails )
-   {
-      $Email = $emails['email'];
-   
-  
-
-     
-  
-   $subject="ewayits.com - Steel Code Generate";
+   $subject="Eicher- Steel Code Generate";
    //  $header = 'MIME-Version: 1.0'."\r\n";
    //  $header .= 'Content-type: text/html; charset=iso-8859-1'."\r\n";
    //  $header.="From:info@ewayits.com"; 
@@ -153,7 +142,6 @@ if($response){
   $i = 1;
    foreach($response as $val){
 
-    
    $message.=   "<tr><td>".$i.".</td><td>".$val['part_no']."</td><td>".$val['steel_code']."</td></tr>";
   
    $i++;
@@ -174,8 +162,8 @@ if($response){
    $mail->isSMTP();                                      // Set mailer to use SMTP
    $mail->Host = 'smtp.mailtrap.io';  // Specify main and backup SMTP servers
    $mail->SMTPAuth = true;                               // Enable SMTP authentication
-   $mail->Username = 'e423a89fb6dfcd';                 // SMTP username
-   $mail->Password = 'd20e39e7d3e60a';                           // SMTP password
+   $mail->Username = 'ad28991a623c91';                 // SMTP username
+   $mail->Password = 'a7dad1b333aacf';                           // SMTP password
    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
    $mail->Port = 2525;                                    // TCP port to connect to
    $mail->SMTPOptions = array(
@@ -187,14 +175,21 @@ if($response){
 );
   
    //Recipients
-   $mail->setFrom('shubham.eway@gmail.com', '');
-   $mail->addAddress($Email, '');     // Add a recipient
+   $mail->setFrom('anjalishrivastava202@gmail.com', '');
+ 
+   foreach($result as $key=>$emails ){
+      $mail->addAddress($emails['email'], '');   
+      // Add a recipient
+   }
+  
    //Content
    $mail->isHTML(true);                                  // Set email format to HTML
    $mail->Subject = $subject;
    $mail->Body    = $message;
    //$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
-
+  
+   
+     
    $mail->send();
    //echo 'Message has been sent';
    
@@ -205,8 +200,14 @@ if($response){
 }
 
 
-}
 
+   $up_data = array('is_report_generated' => 1);
+
+	$where = "heat_no = '$heat_no'";
+
+	$crud->update("metallurgical_report", $up_data, $where); 
+
+	echo json_encode(array('status' => 1, 'data' => $response));
 }
 
 else{
