@@ -262,7 +262,7 @@
                                                         <option value="Reject">Reject</option>
                                                          <!-- <option value="Actual Ok Full Part">Actual Ok Full Part</option>
                                                         <option value="Actual Ok Cut Part">Actual Ok Cut Part</option>
-                                                        <!--<option value="Actual Rejected Full Part">Actual Rejected Full Part</option>
+                                                        <!-<option value="Actual Rejected Full Part">Actual Rejected Full Part</option>
                                                         //<option value="Actual Rejected Cut Part">Actual Rejected Cut Part</option>
                                                         <option value="Segment Off">Segment Off</option>-->
                                                     </select></td>
@@ -774,6 +774,12 @@
                                                     <td>2.3</td>
                                                     <td>2.4</td>
                                                     <td>2.5</td>
+                                                    <td>2.6</td>
+                                                    <td>2.7</td>
+                                                    <td>2.8</td>
+                                                    <td>2.9</td>
+                                                    <td>3.0</td>
+
                                                 </tr>
                                                 <!-- <tr class="bg-color">
                                                     <td><a class="btn btn-beoro-6" onclick="generateGraph()">Generate Graph</a></td>
@@ -808,6 +814,12 @@
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="Hardness_traverse_pcd[]" class="innerBoxes"></td>
+
                                                 </tr>
                                                 
                                                 <tr>
@@ -838,6 +850,12 @@
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_rcd[]" class="innerBoxes"></td>
+
                                                 </tr>
                                                 
                                                 <tr>
@@ -878,6 +896,12 @@
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_od[]" class="innerBoxes"></td>
+
                                                 </tr>
                                                 
                                                 <tr>
@@ -918,6 +942,12 @@
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_ag[]" class="innerBoxes"></td>
+
                                                 </tr>
                                                 <tr>
                                                     <td><input type="text" id="" name="hardness_traverse_extra_value"></td>
@@ -947,6 +977,12 @@
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
                                                     <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
+                                                    <td style="padding-right: 0px;padding-left: 0px;"><input type="text" id="" name="hardness_traverse_extra[]" class="innerBoxes"></td>
+
                                                 </tr>    
                                                             </table>    
                                                             </div>
@@ -1216,7 +1252,7 @@ function customername(){
                text : 'Distance in MM'
             },
             categories: ['0.05', '0.1', '0.2', '0.3', '0.4', '0.5',
-                '0.6', '0.7', '0.8', '0.9', '1.0', '1.1', '1.2', '1.3', '1.4', '1.5',, '1.6', '1.7', '1.8', '1.9', '2.0','2.1','2.2','2.3','2.4','2.5'],
+                '0.6', '0.7', '0.8', '0.9', '1.0', '1.1', '1.2', '1.3', '1.4', '1.5',, '1.6', '1.7', '1.8', '1.9', '2.0','2.1','2.2','2.3','2.4','2.5','2.6','2.7','2.8','2.9','3.0'],
                 plotLines: [{
           value: cut_off,
           color: 'red',
